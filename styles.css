@@ -1,0 +1,16 @@
+ /*Id is specific*/
+ #luis {
+    background-color: yellow;
+}
+/*a grouping*/
+.about {
+    background-color: green;
+    color: orchid;
+}
+#jonathon {
+    background-color: purple ;
+}
+/* generic styles applied to all h2 elements */
+h2 {
+    color: red;
+}
